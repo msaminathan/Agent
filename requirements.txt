@@ -1,0 +1,51 @@
+# Core Streamlit
+streamlit>=1.28.0
+
+# Agent Frameworks
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+crewai>=0.1.0
+crewai-tools>=0.1.0
+
+# LLM Providers
+openai>=1.10.0
+anthropic>=0.18.0
+google-generativeai>=0.3.0
+
+# Vector Stores & Embeddings
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Document Processing
+pypdf>=3.17.0
+python-docx>=1.1.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Web Scraping & Tools
+requests>=2.31.0
+httpx>=0.25.0
+selenium>=4.15.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+
+# Optional: For local models (Ollama)
+# ollama>=0.1.0
+
+# Optional: For Hugging Face models
+# transformers>=4.35.0
+# torch>=2.1.0
+
+# Optional: For production deployment
+# gunicorn>=21.2.0
+# uvicorn>=0.24.0
+# fastapi>=0.104.0
+
+
